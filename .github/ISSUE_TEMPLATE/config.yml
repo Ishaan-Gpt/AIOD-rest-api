@@ -1,0 +1,8 @@
+blank_issues_enabled: false
+contact_links:
+  - name: "AIOD REST API documentation"
+    url: "https://aiondemand.github.io/AIOD-rest-api/"
+    about: "Usage guides and API reference for the AIOD REST API."
+  - name: "AI on Demand organization"
+    url: "https://github.com/aiondemand"
+    about: "Related repositories, such as the Python SDK and the metadata catalogue."
